@@ -1,0 +1,63 @@
+id,Name,Type,Category,Power,Accuracy,PP,Description
+1 ,Absorb,GRASS,Special,20,100,25,User recovers half the damage dealt.
+2 ,Acid,POISON,Special,40,100,30,May lower opponent's Special Defense.
+3 ,Acid Armor,POISON,Status,-,-,20,Sharply raises user's Defense.
+4 ,Acid Spray,POISON,Special,40,100,20,Sharply lowers opponent's Special Defense.
+5 ,Acrobatics,FLYING,Physical,55,100,15,Doubles in power if user is not holding an item.
+6 ,Acupressure,NORMAL,Status,-,-,30,Raises a random stat sharply.
+7 ,Aerial Ace,FLYING,Physical,60,-,20,Cannot miss.
+8 ,Aeroblast,FLYING,Special,100,95,5,High critical hit ratio.
+9 ,After You,NORMAL,Status,-,-,15,Target moves next.
+10 ,Agility,PSYCHIC,Status,-,-,30,Sharply raises user's Speed.
+11 ,Air Cutter,FLYING,Special,60,95,25,High critical hit ratio.
+12 ,Air Slash,FLYING,Special,75,95,15,May cause flinching.
+13 ,Ally Switch,PSYCHIC,Status,-,-,15,User switches places with ally.
+14 ,Amnesia,PSYCHIC,Status,-,-,20,Sharply raises user's Special Defense.
+15 ,Anchor Shot,STEEL,Physical,80,100,20,Prevents opponent from fleeing or switching out.
+16 ,Ancient Power,ROCK,Special,60,100,5,May raise all user's stats at once.
+17 ,Aqua Jet,WATER,Physical,40,100,20,User attacks first.
+18 ,Aqua Ring,WATER,Status,-,-,20,Restores HP each turn.
+19 ,Aqua Tail,WATER,Physical,90,90,10,-.
+20 ,Arm Thrust,FIGHTING,Physical,15,100,20,Hits 2-5 times.
+21 ,Aromatherapy,GRASS,Status,-,-,5,Cures status conditions of party.
+22 ,Aromatic Mist,FAIRY,Status,-,-,20,Sharply raises Special Defense of party.
+23 ,Assist,NORMAL,Status,-,-,20,Uses a random move known by a party Pokémon.
+24 ,Assurance,DARK,Physical,60,100,10,Power doubles if opponent already took damage in the same turn.
+25 ,Astonish,GHOST,Physical,30,100,15,May cause flinching.
+26 ,Attack Order,BUG,Physical,90,100,15,High critical hit ratio.
+27 ,Attract,NORMAL,Status,-,100,15,Infatuates opponent if opposite gender.
+28 ,Aura Sphere,FIGHTING,Special,80,-,20,Cannot miss.
+29 ,Aura Wheel,ELECTRIC,Physical,110,100,10,Changes type based on Morpeko's mode.
+30 ,Aurora Beam,ICE,Special,65,100,20,May lower opponent's Attack.
+31 ,Aurora Veil,ICE,Status,-,-,20,Reduces damage from physical and special moves for 5 turns.
+32 ,Autotomize,STEEL,Status,-,-,15,Sharply raises user's Speed.
+33 ,Avalanche,ICE,Physical,60,100,10,Power doubles if user was hurt by opponent in the same turn.
+34 ,Baby-Doll Eyes,FAIRY,Status,-,100,30,Lowers opponent's Attack.
+35 ,Baddy Bad,DARK,Special,90,100,15,May lower opponent's Special Defense.
+36 ,Baneful Bunker,POISON,Status,-,-,10,Protects user
+37 ,Barrage,NORMAL,Physical,15,85,20,Hits 2-5 times.
+38 ,Barrier,PSYCHIC,Status,-,-,20,Sharply raises user's Defense.
+39 ,Baton Pass,NORMAL,Status,-,-,40,Switches out user and passes its stat changes to the incoming Pokémon.
+40 ,Beak Blast,FLYING,Physical,100,100,15,User charges opponent is burned.
+41 ,Beat Up,DARK,Physical,-,100,10,Number of hits depends on the user's party.
+42 ,Behemoth Bash,STEEL,Physical,100,100,5,User must hold a Chipped Pot. Protects against status conditions and confusion.
+43 ,Behemoth Blade,STEEL,Physical,100,100,5,User must hold a Rusted Sword. Ignores opponent's stat changes.
+44 ,Belch,POISON,Special,120,90,10,User must eat a held Berry.
+45 ,Belly Drum,NORMAL,Status,-,-,10,Maximizes user's Attack at the cost of half its max HP.
+46 ,Bestow,NORMAL,Status,-,-,15,Gives opponent user's held item.
+47 ,Bide,NORMAL,Physical,-,-,10,User waits 2 turns
+48 ,Bind,NORMAL,Physical,15,85,20,Traps opponent
+49 ,Bite,DARK,Physical,60,100,25,May cause flinching.
+50 ,Black Hole Eclipse,DARK,Physical,100,100,1,Z-Move: Raises all stats sharply.
+51 ,Blast Burn,FIRE,Special,150,90,5,User cannot move next turn.
+52 ,Blaze Kick,FIRE,Physical,85,90,10,High critical hit ratio.
+53 ,Blizzard,ICE,Special,110,70,5,May freeze opponent.
+54 ,Block,NORMAL,Status,-,-,5,Opponent cannot flee or switch out.
+55 ,Bloom Doom,GRASS,Special,190,100,1,Z-Move: Requires Grassium Z.
+56 ,Blue Flare,FIRE,Special,130,85,5,May burn opponent.
+57 ,Body Press,FIGHTING,Physical,80,100,10,Power equals user's Defense.
+58 ,Body Slam,NORMAL,Physical,85,100,15,May cause paralysis.
+59 ,Bolt Beak,ELECTRIC,Physical,85,100,10,Doubles in power if opponent moves before user.
+60 ,Bolt Strike,ELECTRIC,Physical,130,85,5,May paralyze opponent.
+61 ,Bone Club,GROUND,Physical,65,85,20,May cause flinching.
+62 ,Bone Rush,GROUND,Physical,25,90,-,-
